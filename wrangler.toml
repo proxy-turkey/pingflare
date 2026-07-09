@@ -11,7 +11,7 @@ directory = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "pingflare-db"
-database_id = "ba9bdc5e-7f72-42b8-9d69-8b8a17bd2cdb"
+database_id = "382d1e91-4ce8-43ea-a185-0a05ac128ecb"
 migrations_dir = "migrations"
 
 # Cron triggers - runs health checks every minute
